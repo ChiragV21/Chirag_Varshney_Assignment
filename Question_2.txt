@@ -1,0 +1,20 @@
+1. Why do you like to join as a Software developer?
+I would like to join as a Software Developer because I believe this is a field where I can utilize my problem-solving skills to create innovative products. In this dynamic field, I aspire to experience daily growth, as the industry evolves rapidly. The constant change motivates me to join, as I see it as an opportunity for personal development.
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+-> Among the various tools available in the realm of software, my favorites are Visual Studio Code (VSCode), Git with GitHub, and Slack. VSCode stands out for its versatility, allowing users to do anything, engage in programming and handle web development tasks from frontend to backend with remarkable speed and an exceptionally interactive user interface. Git and GitHub are indispensable for efficient project management. They facilitate collaboration, version control, and seamless integration of changes. On the communication front, Slack offers a comprehensive suite of features, including messaging, file and media sharing, voice and video calls, project planning, and seamless integration of tools and add-ons to enhance project workflows.
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+  1. Microsoft is my dream company, where I believe I could work alongside top software engineers on cutting-edge products.
+  2. Google offers an amazing working environment and culture. The projects assigned are also noteworthy, providing ample opportunities for learning and growth.
+  3. Adobe, like other top IT companies, provides a conducive working environment and culture. The chance to learn more, work on valuable projects, and contribute to my growth makes it an appealing choice.
+
+4. How you position yourself in this industry after 2 years.
+-> believe it's essentially a journey. In the initial 1.5 years, my plan is to immerse myself in continuous learning, undertake diverse projects, and elevate my skills to an excellent level. Following this period, within the next 1 years, my goal is to transition into the role of a Team Leader. In this capacity, I envision myself managing numerous projects, providing guidance and mentorship to junior team members, and actively sharing my knowledge to foster a collaborative and growth-oriented team environment.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+-> All these project, I have build alone..
+  1. I independently executed a data migration project, transferring data from one system to another (Salesforce). Utilizing Python and its libraries for data exploration and cleaning, I employed REST APIs to retrieve data from the source system. I meticulously mapped each column before using the data loader to import the data into Salesforce.
+  2. I spearheaded the development of a website for the company, building the frontend with HTML/CSS/JS, incorporating Bootstrap, and implementing the backend using Django. I designed models for each form, ensuring that the admin had comprehensive functionality on the website.
+  3. I authored numerous Python scripts for generating comprehensive reports of the system. Using the JIRA platform, upon running the script, I generated detailed reports showcasing employee project engagement, including completed and pending projects, providing insights into various aspects of project management.
